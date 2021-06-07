@@ -1,6 +1,19 @@
 # Pedestrian-detection
 Pedestrian Detection using Non Maximum Suppression
 
+## Citing
+
+If you find this code useful in your research, please consider citing the blog:
+
+```
+@misc{sagarpedestrian,
+  Author = {Abhinav Sagar},
+  Title = {Pedestrian detection using Non Maximum Suppression algorithm},
+  Year = {2019},
+  Journal = {Towards Data Science},
+}
+```
+
 Check out the corresponding medium blog post [https://towardsdatascience.com/pedestrian-detection-using-non-maximum-suppression-b55b89cefc6](https://towardsdatascience.com/pedestrian-detection-using-non-maximum-suppression-b55b89cefc6).
 
 ## Environment and tools
@@ -42,19 +55,6 @@ predict very compact detection boxes for all instances to reduce false positives
 3. https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/leibe-cvpr-05.pdf
 
 4. https://www.vision.ee.ethz.ch/publications/papers/proceedings/eth_biwi_01126.pdf
-
-## Citing
-
-If you find this code useful in your research, please consider citing the blog:
-
-```
-@misc{sagarpedestrian,
-  Author = {Abhinav Sagar},
-  Title = {Pedestrian detection using Non Maximum Suppression algorithm},
-  Year = {2019},
-  Journal = {Towards Data Science},
-}
-```
 
 ## License
 
